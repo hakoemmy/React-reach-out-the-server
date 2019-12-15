@@ -49,7 +49,7 @@ class Blog extends Component {
                 <section>
                     <FullPost 
                     id={this.state.selectedId} 
-                    post={this.state.posts[]}
+                    post={this.state.posts}
                     />
                 </section>
                 <section>
